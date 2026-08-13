@@ -3,6 +3,13 @@
 ## 📌 What This Project Does
 When online shoppers return too many items, it costs companies a lot of money in extra shipping and processing. This project looks at e-commerce transaction data to find out why items are coming back and which categories or customers are causing the biggest problems.
 
+## 📊 Interactive Power BI Dashboard
+![Dashboard Preview](dashboard_preview.png.png)
+
+### 💡 Quick Insights
+* **Electronics:** Top revenue driver with **zero returns**.
+* **Clothing:** Solid sales overall, but hit with a **100% return rate**—a clear signal to check sizing charts and product descriptions.
+* **The Pipeline:** Raw data cleaned in **Python** ➔ Structured in **MySQL** ➔ Dynamically visualized in **Power BI** via direct queries.
 ---
 
 ## 🔍 What I Discovered (Key Insights)
