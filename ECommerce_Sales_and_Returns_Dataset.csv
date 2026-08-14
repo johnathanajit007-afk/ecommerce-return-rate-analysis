@@ -1,0 +1,501 @@
+order_id,customer_id,category,price,is_returned,return_reason
+1001,8174,Home & Kitchen,140.36,0,
+1002,8507,Electronics,225.06,0,
+1003,5860,Apparel,200.32,0,
+1004,6294,Home & Kitchen,50.64,0,
+1005,6130,Sports,88.25,1,Defective
+1006,6095,Apparel,73.39,0,
+1007,8772,Electronics,189.83,0,
+1008,8092,Beauty,22.88,0,
+1009,6638,Home & Kitchen,148.92,0,
+1010,7169,Home & Kitchen,194.18,0,
+1011,5466,Home & Kitchen,221.04,0,
+1012,6238,Electronics,95.39,0,
+1013,5330,Apparel,208.0,0,
+1014,6482,Beauty,41.0,0,
+1015,7135,Beauty,213.92,1,Sizing & Fit
+1016,8444,Beauty,44.96,1,Defective
+1017,8171,Sports,108.36,0,
+1018,7919,Electronics,202.36,0,
+1019,8735,Electronics,50.23,0,
+1020,5130,Beauty,68.87,0,
+1021,6685,Home & Kitchen,184.73,1,Defective
+1022,8380,Home & Kitchen,184.21,0,
+1023,5769,Beauty,165.67,0,
+1024,7391,Beauty,178.08,0,
+1025,6515,Apparel,142.54,0,
+1026,8485,Electronics,74.17,0,
+1027,7853,Apparel,96.24,0,
+1028,7433,Electronics,57.68,0,
+1029,6215,Apparel,228.49,0,
+1030,5955,Electronics,152.1,0,
+1031,7324,Electronics,109.2,0,
+1032,6184,Apparel,123.57,0,
+1033,5459,Electronics,237.61,0,
+1034,8385,Apparel,51.04,0,
+1035,5021,Apparel,152.76,0,
+1036,7300,Beauty,133.88,0,
+1037,5747,Electronics,158.69,0,
+1038,7904,Apparel,19.26,1,Changed Mind
+1039,8632,Electronics,219.95,0,
+1040,5474,Beauty,234.05,0,
+1041,6082,Apparel,147.81,0,
+1042,7558,Home & Kitchen,178.71,0,
+1043,8753,Apparel,231.79,0,
+1044,7047,Apparel,181.2,0,
+1045,8547,Electronics,50.85,1,Sizing & Fit
+1046,7747,Electronics,150.43,0,
+1047,5975,Home & Kitchen,157.58,0,
+1048,6806,Home & Kitchen,114.67,0,
+1049,5189,Sports,188.06,1,Defective
+1050,8005,Electronics,234.58,0,
+1051,7734,Apparel,232.51,1,Sizing & Fit
+1052,8005,Beauty,120.95,0,
+1053,5562,Apparel,41.61,1,Sizing & Fit
+1054,6899,Electronics,246.44,0,
+1055,8638,Apparel,212.14,1,Wrong Item
+1056,6267,Apparel,44.3,0,
+1057,7879,Sports,231.4,1,Defective
+1058,6528,Beauty,219.43,0,
+1059,8202,Home & Kitchen,136.93,0,
+1060,8556,Electronics,153.95,0,
+1061,8890,Apparel,108.77,1,Sizing & Fit
+1062,5646,Apparel,27.87,0,
+1063,7068,Apparel,93.77,0,
+1064,7888,Electronics,203.67,0,
+1065,7214,Home & Kitchen,16.09,0,
+1066,6297,Home & Kitchen,93.37,1,Sizing & Fit
+1067,7435,Apparel,108.57,0,
+1068,5600,Sports,141.29,1,Defective
+1069,7363,Home & Kitchen,231.17,0,
+1070,7061,Electronics,96.39,0,
+1071,5241,Home & Kitchen,96.53,1,Wrong Item
+1072,7041,Electronics,188.31,0,
+1073,7824,Apparel,121.27,0,
+1074,8417,Electronics,67.78,0,
+1075,7612,Beauty,121.32,0,
+1076,7945,Apparel,48.1,0,
+1077,6363,Apparel,56.45,1,Changed Mind
+1078,7139,Apparel,132.12,1,Late Delivery
+1079,6390,Apparel,113.45,0,
+1080,8003,Beauty,229.99,0,
+1081,6478,Home & Kitchen,100.16,0,
+1082,8499,Electronics,151.44,0,
+1083,7556,Apparel,163.58,0,
+1084,5775,Electronics,18.08,0,
+1085,5034,Electronics,170.93,0,
+1086,7253,Apparel,56.84,1,Wrong Item
+1087,8152,Electronics,240.85,1,Sizing & Fit
+1088,6955,Electronics,49.94,1,Wrong Item
+1089,6585,Home & Kitchen,112.44,0,
+1090,8943,Home & Kitchen,35.06,0,
+1091,8459,Apparel,249.27,0,
+1092,8073,Electronics,133.02,1,Sizing & Fit
+1093,6021,Home & Kitchen,154.92,0,
+1094,8461,Electronics,30.76,1,Sizing & Fit
+1095,7613,Beauty,191.24,0,
+1096,6129,Home & Kitchen,64.33,0,
+1097,8843,Apparel,226.04,1,Changed Mind
+1098,8893,Apparel,63.21,0,
+1099,6500,Home & Kitchen,59.81,1,Sizing & Fit
+1100,5702,Apparel,23.59,1,Late Delivery
+1101,7449,Electronics,125.94,0,
+1102,7777,Sports,147.74,0,
+1103,6579,Electronics,30.44,0,
+1104,5161,Electronics,197.25,1,Defective
+1105,5201,Home & Kitchen,121.52,0,
+1106,6981,Electronics,138.23,0,
+1107,5995,Electronics,118.58,0,
+1108,7317,Sports,109.18,1,Defective
+1109,8934,Electronics,146.52,0,
+1110,5815,Sports,51.48,0,
+1111,8342,Sports,57.75,1,Wrong Item
+1112,5455,Apparel,217.52,0,
+1113,8533,Apparel,237.34,0,
+1114,8798,Apparel,102.73,1,Changed Mind
+1115,6275,Apparel,78.62,0,
+1116,6016,Apparel,166.34,1,Defective
+1117,8773,Home & Kitchen,111.05,0,
+1118,7343,Apparel,20.97,0,
+1119,8796,Apparel,51.7,1,Defective
+1120,7767,Beauty,183.25,0,
+1121,8820,Apparel,169.85,0,
+1122,5337,Beauty,21.37,0,
+1123,5878,Apparel,67.16,0,
+1124,6076,Apparel,69.3,0,
+1125,5791,Home & Kitchen,172.89,0,
+1126,8993,Home & Kitchen,19.63,1,Sizing & Fit
+1127,7264,Beauty,39.47,0,
+1128,5763,Home & Kitchen,202.98,0,
+1129,7235,Beauty,56.96,0,
+1130,5379,Apparel,168.4,1,Defective
+1131,5492,Apparel,70.97,0,
+1132,8112,Beauty,38.37,1,Sizing & Fit
+1133,6180,Beauty,72.15,0,
+1134,7062,Sports,184.73,0,
+1135,8884,Electronics,216.09,0,
+1136,5064,Electronics,210.1,0,
+1137,8928,Beauty,108.34,0,
+1138,8910,Apparel,172.0,0,
+1139,7568,Sports,63.17,1,Wrong Item
+1140,6367,Beauty,83.89,0,
+1141,6152,Electronics,225.64,0,
+1142,7027,Beauty,18.06,0,
+1143,7695,Beauty,35.09,0,
+1144,6495,Apparel,63.85,0,
+1145,8134,Sports,21.24,0,
+1146,6162,Electronics,57.64,0,
+1147,6522,Beauty,152.01,1,Defective
+1148,7640,Apparel,114.03,0,
+1149,5391,Beauty,224.78,0,
+1150,6698,Electronics,207.1,1,Wrong Item
+1151,5418,Apparel,95.33,1,Sizing & Fit
+1152,7336,Sports,75.96,0,
+1153,5378,Apparel,104.23,1,Sizing & Fit
+1154,6796,Apparel,153.72,0,
+1155,8561,Sports,77.99,0,
+1156,7278,Sports,161.67,0,
+1157,8065,Electronics,111.21,0,
+1158,7088,Home & Kitchen,144.73,0,
+1159,8099,Electronics,117.49,1,Wrong Item
+1160,7182,Apparel,84.2,0,
+1161,5200,Apparel,237.89,0,
+1162,6863,Home & Kitchen,194.45,0,
+1163,5779,Beauty,47.93,1,Sizing & Fit
+1164,7977,Beauty,219.09,0,
+1165,8104,Beauty,129.55,0,
+1166,8119,Apparel,225.22,0,
+1167,5502,Electronics,202.97,0,
+1168,7454,Apparel,114.93,1,Sizing & Fit
+1169,8645,Electronics,20.28,1,Sizing & Fit
+1170,6751,Electronics,78.14,0,
+1171,5804,Beauty,142.28,1,Late Delivery
+1172,7146,Electronics,163.87,0,
+1173,7731,Apparel,75.6,1,Wrong Item
+1174,6895,Apparel,47.75,0,
+1175,7773,Beauty,211.21,0,
+1176,6570,Home & Kitchen,246.33,0,
+1177,5960,Apparel,138.54,0,
+1178,8810,Apparel,55.34,0,
+1179,7660,Home & Kitchen,78.99,0,
+1180,6485,Apparel,19.32,0,
+1181,7690,Beauty,229.86,0,
+1182,8840,Home & Kitchen,42.67,0,
+1183,6028,Apparel,150.48,0,
+1184,8289,Apparel,79.4,1,Sizing & Fit
+1185,5502,Sports,145.23,0,
+1186,7814,Electronics,168.08,0,
+1187,5397,Electronics,209.99,0,
+1188,5870,Beauty,63.51,1,Sizing & Fit
+1189,7842,Sports,17.58,0,
+1190,5392,Sports,47.17,0,
+1191,5206,Beauty,226.5,1,Sizing & Fit
+1192,6038,Electronics,220.36,1,Wrong Item
+1193,6881,Apparel,155.39,0,
+1194,8625,Beauty,156.12,0,
+1195,7939,Electronics,171.28,0,
+1196,6484,Electronics,56.21,1,Wrong Item
+1197,8762,Sports,229.89,0,
+1198,8646,Apparel,113.41,0,
+1199,5863,Electronics,105.04,1,Sizing & Fit
+1200,7790,Apparel,136.95,0,
+1201,8312,Electronics,26.04,0,
+1202,5563,Apparel,54.08,0,
+1203,6020,Apparel,188.44,0,
+1204,5095,Apparel,34.46,0,
+1205,6923,Home & Kitchen,156.74,0,
+1206,6757,Home & Kitchen,72.66,0,
+1207,7532,Electronics,106.48,0,
+1208,8478,Sports,82.84,1,Sizing & Fit
+1209,7278,Electronics,98.58,0,
+1210,7796,Apparel,183.98,1,Sizing & Fit
+1211,6678,Beauty,84.82,0,
+1212,8242,Apparel,148.11,1,Wrong Item
+1213,5540,Sports,126.87,1,Wrong Item
+1214,6059,Apparel,170.96,0,
+1215,7572,Sports,235.15,1,Sizing & Fit
+1216,6183,Apparel,187.15,1,Sizing & Fit
+1217,8910,Beauty,65.51,0,
+1218,6722,Electronics,22.33,0,
+1219,8314,Sports,76.63,0,
+1220,8157,Apparel,154.84,1,Sizing & Fit
+1221,6819,Electronics,27.09,1,Late Delivery
+1222,7625,Sports,131.65,1,Sizing & Fit
+1223,7729,Electronics,155.26,0,
+1224,7604,Home & Kitchen,93.55,1,Wrong Item
+1225,6597,Home & Kitchen,196.16,0,
+1226,8060,Electronics,40.05,0,
+1227,7693,Home & Kitchen,32.66,0,
+1228,5795,Electronics,186.12,0,
+1229,6051,Sports,131.44,0,
+1230,6643,Apparel,176.77,0,
+1231,8627,Apparel,117.18,0,
+1232,6363,Sports,72.9,0,
+1233,8869,Beauty,207.49,0,
+1234,6981,Electronics,202.86,0,
+1235,6354,Home & Kitchen,178.25,0,
+1236,6663,Apparel,78.95,0,
+1237,6529,Apparel,153.7,0,
+1238,7038,Electronics,99.83,0,
+1239,8419,Electronics,36.52,0,
+1240,6496,Electronics,230.57,0,
+1241,8302,Apparel,47.15,0,
+1242,7237,Sports,238.31,0,
+1243,8296,Sports,119.81,1,Defective
+1244,6408,Home & Kitchen,58.51,0,
+1245,6400,Electronics,142.35,0,
+1246,6306,Apparel,220.14,0,
+1247,7680,Beauty,187.07,0,
+1248,7675,Home & Kitchen,204.54,0,
+1249,5972,Apparel,169.81,0,
+1250,6768,Sports,177.68,0,
+1251,6282,Beauty,214.56,0,
+1252,8430,Sports,73.67,0,
+1253,5709,Home & Kitchen,130.01,1,Sizing & Fit
+1254,6479,Home & Kitchen,66.98,1,Sizing & Fit
+1255,6434,Electronics,247.1,0,
+1256,5648,Sports,236.85,1,Sizing & Fit
+1257,5317,Beauty,24.27,0,
+1258,8748,Apparel,180.81,0,
+1259,8296,Apparel,232.43,0,
+1260,8890,Electronics,57.44,0,
+1261,6257,Beauty,148.47,1,Defective
+1262,5683,Sports,230.14,0,
+1263,5663,Apparel,22.98,1,Wrong Item
+1264,6998,Electronics,178.89,0,
+1265,8898,Electronics,84.88,1,Defective
+1266,8445,Sports,232.23,0,
+1267,8743,Beauty,243.2,0,
+1268,6631,Beauty,236.9,0,
+1269,6495,Electronics,126.44,0,
+1270,8304,Electronics,217.58,0,
+1271,8763,Apparel,213.47,0,
+1272,6136,Apparel,89.99,1,Defective
+1273,6853,Beauty,209.8,0,
+1274,6520,Beauty,23.7,0,
+1275,7489,Sports,155.12,0,
+1276,5563,Sports,69.05,0,
+1277,6291,Electronics,43.33,0,
+1278,8581,Beauty,33.08,0,
+1279,8878,Sports,178.63,0,
+1280,8457,Beauty,94.87,0,
+1281,8458,Apparel,185.32,0,
+1282,8184,Electronics,30.36,0,
+1283,6636,Apparel,89.09,0,
+1284,8696,Sports,141.78,0,
+1285,7999,Home & Kitchen,200.82,0,
+1286,8152,Apparel,89.91,0,
+1287,5698,Home & Kitchen,162.08,0,
+1288,7160,Home & Kitchen,223.2,1,Sizing & Fit
+1289,5001,Electronics,159.73,0,
+1290,5641,Apparel,69.75,1,Late Delivery
+1291,7267,Home & Kitchen,20.73,0,
+1292,6589,Electronics,219.47,0,
+1293,5854,Beauty,20.0,0,
+1294,6759,Electronics,220.55,1,Wrong Item
+1295,8296,Beauty,139.3,0,
+1296,7432,Electronics,235.68,1,Sizing & Fit
+1297,8474,Electronics,202.71,1,Late Delivery
+1298,6661,Beauty,249.51,0,
+1299,6153,Electronics,97.42,0,
+1300,6076,Apparel,195.29,0,
+1301,6707,Apparel,109.45,0,
+1302,7777,Beauty,127.77,1,Defective
+1303,6695,Home & Kitchen,162.46,1,Defective
+1304,6733,Home & Kitchen,220.31,0,
+1305,6439,Apparel,246.26,0,
+1306,7294,Apparel,195.54,1,Wrong Item
+1307,5835,Apparel,113.18,0,
+1308,8510,Electronics,114.02,1,Changed Mind
+1309,5202,Electronics,188.33,0,
+1310,8255,Electronics,71.11,0,
+1311,5122,Electronics,40.96,0,
+1312,5400,Sports,98.34,0,
+1313,5766,Apparel,82.5,0,
+1314,5293,Electronics,84.63,0,
+1315,7327,Beauty,69.9,0,
+1316,8908,Electronics,24.89,1,Wrong Item
+1317,7931,Home & Kitchen,19.2,1,Sizing & Fit
+1318,8681,Beauty,247.11,0,
+1319,5197,Sports,115.53,0,
+1320,8029,Apparel,105.32,0,
+1321,6930,Sports,174.72,0,
+1322,8582,Electronics,66.29,0,
+1323,7799,Apparel,238.24,0,
+1324,7191,Electronics,199.79,0,
+1325,5608,Sports,36.01,0,
+1326,8272,Electronics,113.13,0,
+1327,6147,Apparel,221.59,0,
+1328,5186,Home & Kitchen,237.01,1,Sizing & Fit
+1329,8397,Apparel,124.84,0,
+1330,7511,Apparel,159.15,0,
+1331,8420,Apparel,54.25,0,
+1332,6794,Apparel,247.92,0,
+1333,5659,Apparel,69.44,0,
+1334,7811,Apparel,236.54,0,
+1335,8002,Home & Kitchen,167.67,1,Late Delivery
+1336,6955,Apparel,157.82,0,
+1337,7450,Apparel,135.48,0,
+1338,6369,Beauty,69.21,1,Sizing & Fit
+1339,6986,Electronics,56.48,0,
+1340,6534,Home & Kitchen,66.81,0,
+1341,5146,Apparel,58.81,0,
+1342,8219,Apparel,198.2,0,
+1343,7911,Apparel,97.28,1,Sizing & Fit
+1344,6734,Apparel,28.59,0,
+1345,6843,Apparel,242.74,0,
+1346,5488,Apparel,222.69,0,
+1347,7976,Apparel,233.02,0,
+1348,6959,Apparel,248.8,0,
+1349,6663,Electronics,55.87,0,
+1350,7598,Apparel,108.12,0,
+1351,7385,Electronics,193.19,1,Sizing & Fit
+1352,7919,Electronics,178.56,0,
+1353,5640,Home & Kitchen,51.17,0,
+1354,6802,Apparel,206.72,1,Sizing & Fit
+1355,7520,Beauty,67.74,0,
+1356,6969,Home & Kitchen,67.6,0,
+1357,7198,Apparel,141.19,0,
+1358,6438,Beauty,154.34,0,
+1359,8369,Sports,151.32,0,
+1360,6634,Apparel,36.5,1,Defective
+1361,5262,Apparel,221.2,0,
+1362,6787,Beauty,77.42,0,
+1363,7191,Home & Kitchen,45.44,1,Late Delivery
+1364,7393,Apparel,223.86,0,
+1365,5623,Apparel,239.58,0,
+1366,6016,Electronics,217.6,0,
+1367,8643,Electronics,205.24,1,Sizing & Fit
+1368,5880,Home & Kitchen,168.98,0,
+1369,7049,Electronics,144.45,0,
+1370,7944,Electronics,35.44,0,
+1371,6327,Home & Kitchen,110.99,0,
+1372,7301,Apparel,102.58,0,
+1373,8723,Apparel,76.04,0,
+1374,5452,Home & Kitchen,185.0,1,Sizing & Fit
+1375,8108,Beauty,131.53,0,
+1376,6183,Electronics,34.05,0,
+1377,8062,Electronics,66.74,1,Sizing & Fit
+1378,7056,Apparel,175.57,1,Changed Mind
+1379,8304,Electronics,32.89,0,
+1380,8170,Electronics,215.03,0,
+1381,6682,Apparel,131.36,0,
+1382,7863,Apparel,127.94,1,Defective
+1383,7255,Electronics,154.22,1,Sizing & Fit
+1384,6154,Apparel,208.8,0,
+1385,5403,Apparel,96.74,1,Changed Mind
+1386,7199,Apparel,174.33,0,
+1387,7101,Apparel,147.95,0,
+1388,8191,Apparel,77.75,0,
+1389,6696,Beauty,221.48,1,Changed Mind
+1390,8991,Electronics,202.4,0,
+1391,5627,Home & Kitchen,169.74,1,Changed Mind
+1392,5586,Beauty,214.89,1,Late Delivery
+1393,6648,Electronics,218.81,0,
+1394,6443,Apparel,181.47,0,
+1395,6445,Electronics,211.7,0,
+1396,5103,Electronics,178.91,0,
+1397,8923,Home & Kitchen,174.83,0,
+1398,5253,Electronics,160.37,0,
+1399,8298,Apparel,191.89,1,Sizing & Fit
+1400,8183,Apparel,52.27,0,
+1401,7557,Electronics,222.0,0,
+1402,6496,Home & Kitchen,219.88,0,
+1403,5098,Electronics,21.87,0,
+1404,7200,Electronics,209.07,0,
+1405,6884,Sports,45.28,0,
+1406,7961,Home & Kitchen,93.75,1,Wrong Item
+1407,6919,Apparel,189.72,0,
+1408,5877,Apparel,52.78,1,Defective
+1409,5337,Apparel,207.22,1,Changed Mind
+1410,8777,Apparel,210.55,0,
+1411,7869,Apparel,134.25,1,Wrong Item
+1412,8234,Apparel,16.5,0,
+1413,8791,Apparel,82.45,1,Wrong Item
+1414,5956,Apparel,159.98,0,
+1415,6704,Beauty,245.58,1,Wrong Item
+1416,5160,Apparel,163.48,1,Sizing & Fit
+1417,6603,Electronics,76.05,1,Defective
+1418,7848,Electronics,163.99,1,Late Delivery
+1419,5397,Sports,141.9,0,
+1420,6300,Apparel,198.26,0,
+1421,5815,Electronics,40.14,0,
+1422,8987,Sports,193.84,0,
+1423,6527,Beauty,142.2,0,
+1424,6919,Beauty,241.3,0,
+1425,6415,Apparel,95.34,1,Late Delivery
+1426,6158,Apparel,163.67,0,
+1427,6218,Home & Kitchen,234.03,1,Sizing & Fit
+1428,5400,Sports,39.09,0,
+1429,5639,Electronics,235.25,1,Sizing & Fit
+1430,8104,Electronics,176.65,1,Sizing & Fit
+1431,7735,Apparel,30.94,0,
+1432,5459,Beauty,85.73,0,
+1433,5954,Apparel,181.42,1,Wrong Item
+1434,8954,Apparel,30.83,0,
+1435,5469,Electronics,151.81,0,
+1436,8446,Electronics,96.28,0,
+1437,6045,Apparel,160.92,0,
+1438,7797,Apparel,25.75,0,
+1439,6693,Home & Kitchen,219.81,0,
+1440,7085,Apparel,243.77,0,
+1441,7277,Electronics,242.69,0,
+1442,8436,Apparel,191.17,1,Changed Mind
+1443,5562,Electronics,45.57,0,
+1444,7485,Electronics,193.19,1,Sizing & Fit
+1445,6799,Apparel,20.78,0,
+1446,8354,Apparel,20.2,0,
+1447,7074,Apparel,91.05,0,
+1448,5225,Apparel,129.83,0,
+1449,8348,Sports,196.05,0,
+1450,5797,Apparel,175.57,0,
+1451,8680,Beauty,119.79,0,
+1452,7331,Apparel,79.3,0,
+1453,7926,Home & Kitchen,249.32,0,
+1454,5959,Beauty,115.15,0,
+1455,6504,Electronics,121.08,0,
+1456,5452,Electronics,53.45,1,Defective
+1457,8067,Electronics,201.78,0,
+1458,8900,Apparel,178.02,0,
+1459,5815,Sports,66.88,1,Changed Mind
+1460,5658,Beauty,34.36,0,
+1461,8587,Sports,174.92,0,
+1462,5546,Apparel,168.81,1,Wrong Item
+1463,6215,Home & Kitchen,79.22,0,
+1464,8120,Sports,238.45,0,
+1465,8583,Apparel,50.5,0,
+1466,5016,Apparel,116.6,0,
+1467,8243,Home & Kitchen,236.75,0,
+1468,6243,Electronics,113.64,0,
+1469,7205,Beauty,165.05,0,
+1470,7524,Apparel,108.43,0,
+1471,6069,Beauty,79.44,1,Defective
+1472,8444,Apparel,246.23,1,Defective
+1473,7565,Apparel,111.19,0,
+1474,7146,Apparel,225.11,0,
+1475,8963,Beauty,69.04,0,
+1476,6768,Home & Kitchen,65.08,0,
+1477,6060,Electronics,22.32,0,
+1478,7327,Electronics,168.14,0,
+1479,8420,Beauty,101.6,1,Defective
+1480,7544,Electronics,218.12,0,
+1481,5301,Beauty,126.2,0,
+1482,5180,Electronics,242.53,0,
+1483,5606,Electronics,58.6,0,
+1484,8170,Electronics,219.13,1,Sizing & Fit
+1485,5699,Apparel,197.5,1,Defective
+1486,5992,Home & Kitchen,196.17,1,Wrong Item
+1487,6139,Electronics,213.52,0,
+1488,5190,Apparel,193.84,0,
+1489,7300,Beauty,162.16,0,
+1490,5980,Electronics,45.84,0,
+1491,7975,Electronics,22.64,0,
+1492,7006,Sports,231.4,1,Changed Mind
+1493,6184,Home & Kitchen,159.91,0,
+1494,8327,Apparel,202.19,0,
+1495,8394,Sports,128.16,0,
+1496,5127,Home & Kitchen,42.57,0,
+1497,7065,Apparel,44.42,0,
+1498,6816,Apparel,176.11,1,Defective
+1499,6758,Beauty,116.12,1,Wrong Item
+1500,7613,Home & Kitchen,62.12,1,Sizing & Fit
